@@ -4,6 +4,14 @@ We describe the orientation of malonic acid using a set of four angles. Two angl
 
 The second angle, $\phi$, describes a molecular ``twist'' of the plane of the carbon chain with respect to the water surface. When $\phi=0$\textdegree, the plane formed by the three carbon atoms is rotated perpendicular to the water surface, parallel to the reference axis. At $\phi=90$\textdegree, the plane formed by the carbon atoms is oriented parallel, or ``flat'', to the plane of the water surface. Because the carbon atoms form the backbone of the malonic acid molecular structure, determining the orientation of the three atoms is the first step in understanding the overall orientation of the molecule in space with respect to a water surface.
 
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[scale=1.0]{}
+		\caption{}
+		\label{fig:angle-definitions}
+	\end{center}
+\end{figure}
+
 The planes of the carboxylic acid group atoms form the two dihedral angles, $\psi_1$ and $\psi_2$, referenced to the plane of the three backbone carbon atoms. The dihedral angle $\psi$ is the angle of rotation of the C-C bond between the central methylene carbon, and the carbonyl carbon of the carboxylic acid moiety. When the carboxylic acid is rotated such that the carbonyl C=O bond is oriented in the same direction as the C-C-C bisector vector, $\psi=0$\textdegree. With this orientation set as the reference rotation angle, $\psi=90$\textdegree would place both the carbonyl bond and the alcohol C-O bond perpendicular to the C-C-C plane. Lastly, $\psi=180$\textdegree rotated the carboxylic acid such that the carbonyl is anti-aligned with the C-C-C bisector. The dihedral angles $\psi$ are depicted in Figure \ref{fig:angle-definitions}, and characterize the internal orientation of malonic acid. By combining all four angles with information about the acid position we are able to develop a nearly complete picture of the orientational behavior of malonic acid relative to a nearby water surface.
 
 
@@ -13,6 +21,14 @@ The planes of the carboxylic acid group atoms form the two dihedral angles, $\ps
 Bivariate angle distributions of $\theta$ and $\phi$ were calculated for the three carbon backbone atoms, and are shown in Figure \ref{fig:backbone-theta-phi}. The set of plots represents slices through the interface, with each slice located at the distance labeled in the top-right of the axes. Positive positions are further into the gas phase, and negative positions are on the water side of the interface. A distance of 0\angs~is located at the water surface location. The location of the surface, and all calculations performed to relate interfacial position are done using a method of averaging top-most water molecule positions, and is fully described in our previous publication.\cite{Shamay2011}
 
 In each set of axes of Figure \ref{fig:backbone-theta-phi}, the values of $\theta$ and $\phi$ are plotted along the horizontal and vertical axes, respectively. The plots are two-dimensional histograms colored by the intensity (i.e. population) of the respective location in the angle space. Higher intensity is colored in dark red, and lower intensity is dark blue. Areas in the plots characterized by uniform coloration indicate an isotropic distribution of angles. A concentrated region of distinct coloration indicates an orientational preference in one or both of the angular degrees of freedom.
+
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[scale=1.0]{}
+		\caption{}
+		\label{fig:backbone-theta-phi}
+	\end{center}
+\end{figure}
 
 The plot at a position of 2\angs~shows the orientation of acid molecules just above the water surface, and are most likely less solvated than those further in to the water bulk. The most distinguishing feature is the vertically-running band of intensity to the right of the plot centered between 135\textdegree and 180\textdegree. This results from the three carbon atoms oriented with the bisector vector aimed more than 45\textdegree into the water bulk. $\phi$ is spread nearly isotropically. However, due to the symmetry of the $\theta$ angle as a spherical coordinate (i.e. a single $\theta$ value describes a cone in space) $\phi$ will necessarily become more isotropic, or spread out across the two-dimensional plots, as $\theta$ takes values near its extrema. As seen in the 0\angs~plot, $\theta$ values closer to 90\textdegree require $\phi$ to fully describe the orientation.
 
@@ -30,7 +46,36 @@ The carbon backbone $\theta$ orientation has a strong effect on the orientation 
 
 Having established the orientation of the carbon backbone atom group the the $\theta-\phi$ distributions, we now turn to analysis of the  internal geometry of malonic acid near the water surface. The two carboxylic acid moieties rotate around the two C-C bonds, quantified by the two dihedral angles $\psi_1$ and $\psi_2$. The magnitudes off the dihedrals fall in the range 0\textdegree$\le \psi \le$180\textdegree. The O=C-O atomic plane is parallel to the C-C-C plane at $\psi=0$\textdegree and $\psi=180$\textdegree, and the two planes are perpendicular at $\psi=90$\textdegree, as discussed above. The two angles $\psi_1$ and $\psi_2$ are plotted in a set of bivariate distributions in Figure \ref{fig:carboxylic-psi-psi}. The arrangement of the axes in the figure is identical to that of Figure \ref{fig:backbone-theta-phi}, but with each axis representing one of the two $\psi$ angles.
 
-Figure \ref{fig:carboxylic-psi-psi} shows that the dihedral orientations are strongly fixed in a preferred orientation with the two dihedrals 90\textdegree~apart from each other. The two very concentrated peaks in the plots are located at $\psi=0$\textdegree and $\psi=90$\textdegree. This results from the carboxylic O=C-O atomic planes of the two carboxylic acids aligning perpendicular to each other. During the analysis, the two carboxylic acid groups were distinguished from one another by arbitrarily assigning them at the beginning of the simulation trajectories. A symmetric distribution between both axes of any plot indicates that the two dihedral angles interchange throughout the simulation. The topmost plot at 2\angs~is not symmetric between the two dihedral angles resulting in only a single peak in the distribution. This indicates that the top-most malonic acids above the water surface take on a fixed dihedral orientation and rarely rotate to switch the dihedral values.
+Figure \ref{fig:carboxylic-psi-psi} shows that the dihedral orientations are strongly fixed in a preferred orientation with the two dihedrals 90\textdegree~apart from each other. The two very concentrated peaks in the plots are located at $\psi=0$\textdegree and $\psi=90$\textdegree. This results from the carboxylic O=C-O atomic planes of the two carboxylic acids aligning perpendicular to each other. During the analysis, the two carboxylic acid groups were distinguished from one another by arbitrarily assigning them at the beginning of the simulation trajectories. A symmetric distribution between both axes of any plot indicates that the two dihedral angles interchange throughout the simulation. The topmost plot at 2\angs~is not symmetric between the two dihedral angles resulting in only a single peak in the distribution (located at the left-center of the axis). This indicates that the top-most malonic acids above the water surface take on a fixed dihedral orientation and rarely rotate to switch the dihedral values.
 
-One of the carbonyl C=O bonds is preferrentially aligned in the same direction as the carbon group bisector ($\psi=0$\textdegree). The other carbonyl C=O bond points perpendicular to the plane of the carbon group atoms. The strong orientational preference is established in the bulk of the water and at the water surface.
 
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[scale=1.0]{}
+		\caption{}
+		\label{fig:carboxylic-psi-psi}
+	\end{center}
+\end{figure}
+
+One of the carbonyl C=O bonds is preferrentially aligned in the same direction as the carbon group bisector ($\psi=0$\textdegree), and in the plane of the plane of the three carbons. The other carbonyl C=O bond points perpendicular to the plane of the carbon group atoms. The strong orientational preference is established both in the bulk of the water and at the water surface location.
+
+There remains one final set of orientational data necessary to fully characterize the interfacial malonic acid. The $\theta-\phi$ distributions of the carbon atoms show that the acid carbon chain lays flat when at the water surface (0\angs), and tilts with the bisector pointing further into the water bulk when the malonic acid is slightly above the water surface. The $\psi-\psi$ dihedral distributions show one C=O carbonyl bond mostly aligned with the carbon group bisector and the other carbonyl aligned normal plane of the carbon atoms. The question remains as to which direction does the perpendicular cabonyl C=O bond vector point? Is it pointed into the water side of the interface, or does it point out towards the gas phase away from the water bulk?
+
+To determine the carbonyl orientation we calculated the tilt angle of the C=O bond, $\theta_{C=O}$. Like with the carbon group bisector tilt angle, $\theta_{C=O}$ is referenced to the axis normal to the plane of the water surface, pointing out towards the gas phase side of the interface.
+
+Figure \ref{fig:carbonyl-tilt} shows the angle distribution of $\theta_{C=O}$ plotted as a function of the molecular center of mass position. Most of the distribution if isotropic in the tilt angle up to positions just several \angs~beneath the water surface location.
+
+Starting above the surface (positions >0\angs), the distribution bifurcates into two distinct angle regions. There is a protrusion in the distribution beginning just below 0\angs~and extending above the surface, centered at $\theta_{C=O}=90$\textdegree. A second peak in the distribution is concentrated towards the bottom of the plot near $\theta_{C=O}=180$\textdegree. At this position slightly above the water surface, it is more clear that one of the carbonyl C=O bonds points into the water (the bond oriented near $\theta_{C=O}=180$\textdegree), and the other points more out into the plane of the surface and often slightly angled towards the gas phase.  When these two angles are manifested by malonic acid carbonyl bonds just above the water surface, this may lead to a difference in solvation between the two bonds. One bond, pointing more towards the water bulk, will have more water interactions than the other that points parallel to, or away from the water surface into the gas phase.
+
+
+\begin{figure}[h!]
+	\begin{center}
+		\includegraphics[scale=1.0]{}
+		\caption{}
+		\label{fig:carbonyl-tilt}
+	\end{center}
+\end{figure}
+
+Further down into the water surface, the angle distribution spreads over a much larger range until becoming isotropic near -2\angs. However, a feature appears at -4\angs~and extends down slightly past -6\angs. In this region there is a decreased intensity in the histogram for $\theta_{C=O} > 120$\textdegree. This indicates that the carbonyl bonds favor pointing more towards the water surface instead of orienting isotropically or pointing towards the water bulk. At this depth, the carbon backbone orientation distribution becomes somewhat more isotropic, but there remains a concentration towards $\theta_{CCC} < 90$\textdegree (i.e. the carbon group bisector aims further towards the water surface), in agreement with the carbonyl bond behavior.
+
+These orientational distributions paint the following picture of malonic acid orientation broken into interfacial depth regions: 1) Above the water surface the carbon group bisector tilts down towards the water, and the carbonyl bonds orient with one bond pointing towards the water phase (potentially increasing the interactions with surface waters), and the other carbonyl bond pointed our of the water either parallel to the plane of the surface, or slightly out towards the gas phase. 2) At the water surface location (0\angs) the carbon group lays flat in the plane of the surface. The methylene C-H bonds align symmetrically above and below the surface. Also, the carbonyl bonds have a similar orientation to those further out of the water, but the carbonyl bond tilt distribution quickly becomes isotropic just a few \angs~under the surface location. 3) At -4\angs~and down to approximately -6\angs, the carbon group $\theta$ distribution begins to shift more towards $\theta<90$\textdegree, and quickly becomes isotropic further in towards the water bulk. The carbon group bisector tilts more towards the water surface. The distribution of carbonyl bond tilt mimics the carbon group bisector tilt behavior, with $\theta_{C=O}$ intensity at this depth shifting and leaving a low-intensity region from approximately 120\textdegree $\le \theta_{C=O} \le$ 180\textdegree. Both carbonyls orient to point more towards the water surface at this depth. 4) Further down in the water surface, below -6\angs, the tilt distributions become isotropic and malonic acid assumes bulk-like behavior.
