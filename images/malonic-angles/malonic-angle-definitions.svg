@@ -19,74 +19,74 @@
   <defs
      id="defs4">
     <marker
-       inkscape:stockid="Arrow1Mstart"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Mstart"
-       style="overflow:visible">
-      <path
-         id="path3902"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
-         transform="scale(0.4) translate(10,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0.0"
-       refX="0.0"
-       id="Arrow1Mend"
-       style="overflow:visible;">
-      <path
-         id="path3905"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
-         transform="scale(0.4) rotate(180) translate(10,0)" />
-    </marker>
-    <linearGradient
-       id="linearGradient5405"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5407" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient5399"
-       osb:paint="solid">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5401" />
-    </linearGradient>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow1Mend-5"
-       style="overflow:visible">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3905-6"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
-    </marker>
-    <marker
-       inkscape:stockid="Arrow1Mend"
-       orient="auto"
-       refY="0"
-       refX="0"
+       style="overflow:visible"
        id="Arrow1Mend-4"
-       style="overflow:visible">
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
       <path
-         inkscape:connector-curvature="0"
-         id="path3905-8"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
          style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
-         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3905-8"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3905-6"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5399">
+      <stop
+         id="stop5401"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient5405">
+      <stop
+         id="stop5407"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3905" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart">
+      <path
+         transform="scale(0.4) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3902" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -96,17 +96,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8282679"
-     inkscape:cx="-26.880699"
-     inkscape:cy="881.67806"
+     inkscape:zoom="0.30448011"
+     inkscape:cx="215.04351"
+     inkscape:cy="308.0264"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1149"
-     inkscape:window-x="0"
+     inkscape:window-width="1379"
+     inkscape:window-height="1121"
+     inkscape:window-x="14"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -125,300 +125,687 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="129.57523"
-       y="180.8895"
-       id="text2985"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.99962378,0.02742821,-0.02742821,0.99962378,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan2987"
-         x="129.57523"
-         y="180.8895">C</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="152.10812"
-       y="225.52426"
-       id="text2985-9"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.99963035,0.02718771,-0.02718771,0.99963035,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan2987-9"
-         x="152.10812"
-         y="225.52426">C</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="183.14726"
-       y="223.88603"
-       id="text2985-1"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.99771813,-0.06751693,0.06751693,0.99771813,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan2987-94"
-         x="183.14726"
-         y="223.88603">C</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="208.63617"
-       y="176.77066"
-       id="text2985-2"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.9993749,-0.03535274,0.03535274,0.9993749,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan2987-0"
-         x="208.63617"
-         y="176.77066">O</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="72.083939"
-       y="237.00607"
+       style="font-size:21.43588829px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-17.22353"
+       y="867.6817"
        id="text3028"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
+         y="867.6817"
+         x="-17.22353"
          sodipodi:role="line"
          id="tspan3030" /></text>
     <text
        xml:space="preserve"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="79.296928"
-       y="197.53008"
-       id="text2985-2-6"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.99999915,-0.0013051,0.0013051,0.99999915,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan2987-0-5"
-         x="79.296928"
-         y="197.53008">O</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="147.76271"
-       y="106.33427"
-       id="text2985-2-9"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.92818393,0.37212174,-0.37212174,0.92818393,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan2987-0-56"
-         x="147.76271"
-         y="106.33427">HO</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
-       x="240.64734"
-       y="227.85451"
-       id="text2985-2-1"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.99735405,0.07269733,-0.07269733,0.99735405,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan2987-0-1"
-         x="240.64734"
-         y="227.85451">OH</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 134.04064,187.33531 13.09953,27.07784"
-       id="path3083"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 160.62212,221.94761 35.84085,-13.71199"
-       id="path3085"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 206.52041,195.09975 c 1.28709,-3.21039 9.92897,-24.76584 9.92897,-24.76584 l 0,0"
-       id="path3087"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 209.33208,196.38545 c 1.2871,-3.21039 9.92897,-24.76584 9.92897,-24.76584 l 0,0"
-       id="path3087-4"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 223.80947,232.64086 209.19143,211.34235"
-       id="path3085-3"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 123.58796,180.08118 -22.35185,0.82584 1.93987,8.30619 z"
-       id="path3125"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.91305548;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.45652774, 0.45652774;stroke-dashoffset:0"
-       d="m 125.36957,172.93741 -12.07548,-13.77322 2.47154,-2.40455 z"
-       id="path5411"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
-    <g
-       id="g5442"
-       transform="matrix(0.92818393,0.37212174,-0.37212174,0.92818393,83.543914,-50.534167)"
-       style="stroke:#0004f2;stroke-opacity:1">
-      <path
-         transform="matrix(0.65611372,0.75466204,-0.75466204,0.65611372,219.03683,-51.4262)"
-         sodipodi:open="true"
-         sodipodi:end="10.36"
-         sodipodi:start="5.1190837"
-         d="m 180.65883,192.01314 c 3.87999,0.89747 5.67061,3.31417 3.99948,5.39787 -1.67114,2.0837 -6.17122,3.04533 -10.05121,2.14787 -3.87999,-0.89746 -5.67061,-3.31417 -3.99948,-5.39787 0.53621,-0.66858 1.39361,-1.24864 2.48444,-1.68078"
-         sodipodi:ry="4.1079392"
-         sodipodi:rx="7.6492658"
-         sodipodi:cy="195.78601"
-         sodipodi:cx="177.63297"
-         id="path5432"
-         style="fill:none;stroke:#0004f2;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-         sodipodi:type="arc" />
-    </g>
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#0004ff;stroke-opacity:1"
-       d="m 183.38888,214.86694 2.86705,4.51246 -2.24265,-0.89694 -2.00679,1.48699 z"
-       id="path5440"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <text
-       xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="156.10168"
-       y="108.38606"
+       style="font-size:21.43588829px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="162.87607"
+       y="591.97321"
        id="text5445"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
          sodipodi:role="line"
          id="tspan5447"
-         x="156.10168"
-         y="108.38606" /></text>
+         x="162.87607"
+         y="591.97321" /></text>
     <text
        xml:space="preserve"
-       style="font-size:10px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="169.9837"
-       y="103.00325"
+       style="font-size:21.43588829px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="192.63332"
+       y="580.43475"
        id="text5449"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
          sodipodi:role="line"
          id="tspan5451"
-         x="169.9837"
-         y="103.00325" /></text>
+         x="192.63332"
+         y="580.43475" /></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium Italic"
-       x="197.15404"
-       y="227.1326"
-       id="text3026"
+       style="font-size:38.58459854px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="490.0083"
+       y="224.69121"
+       id="text2985-7"
        sodipodi:linespacing="125%"
-       transform="matrix(0.99764273,0.06862198,-0.06862198,0.99764273,0,0)"
-       inkscape:transform-center-x="3.1389188"
-       inkscape:transform-center-y="1.7438438"><tspan
+       transform="matrix(0.99962378,0.02742821,-0.02742821,0.99962378,0,0)"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
          sodipodi:role="line"
-         id="tspan3028"
-         x="197.15404"
-         y="227.1326">ψ</tspan></text>
+         id="tspan2987-4"
+         x="490.0083"
+         y="224.69121">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.58459854px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="538.34882"
+       y="320.42065"
+       id="text2985-9-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99963035,0.02718771,-0.02718771,0.99963035,0,0)"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
+         sodipodi:role="line"
+         id="tspan2987-9-3"
+         x="538.34882"
+         y="320.42065">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.58459854px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="619.35516"
+       y="337.72678"
+       id="text2985-1-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99771813,-0.06751693,0.06751693,0.99771813,0,0)"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
+         sodipodi:role="line"
+         id="tspan2987-94-7"
+         x="619.35516"
+         y="337.72678">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.58459854px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="669.29639"
+       y="229.50218"
+       id="text2985-2-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.9993749,-0.03535274,0.03535274,0.9993749,0,0)"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
+         sodipodi:role="line"
+         id="tspan2987-0-6"
+         x="669.29639"
+         y="229.50218">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:60.02048874px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="386.8299"
+       y="266.52756"
+       id="text2985-2-6-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99999915,-0.0013051,0.0013051,0.99999915,0,0)"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
+         sodipodi:role="line"
+         id="tspan2987-0-5-8"
+         x="386.8299"
+         y="266.52756">O</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.43588829px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="459.33929"
+       y="1.4280941"
+       id="text2985-2-9-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.92818393,0.37212174,-0.37212174,0.92818393,0,0)"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
+         sodipodi:role="line"
+         id="tspan2987-0-56-3"
+         x="459.33929"
+         y="1.4280941">HO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.58459854px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+       x="720.4942"
+       y="315.91428"
+       id="text2985-2-1-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99735405,0.07269733,-0.07269733,0.99735405,0,0)"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
+         sodipodi:role="line"
+         id="tspan2987-0-1-4"
+         x="720.4942"
+         y="315.91428">OH</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
-       d="M 157.12035,213.9465 230.76219,19.423361"
-       id="path3798"
+       style="fill:none;stroke:#000000;stroke-width:2.14358878px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 503.97294,244.39123 28.08001,58.04376"
+       id="path3083-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0"
-       d="m 138.69097,259.91495 9.8636,-24.60283"
-       id="path3798-5"
+       style="fill:none;stroke:#000000;stroke-width:2.14358878px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 560.9527,318.58577 637.78075,289.1929"
+       id="path3085-2"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.14358878px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 659.33976,261.035 c 2.759,-6.88176 21.28363,-53.08778 21.28363,-53.08778 l 0,0"
+       id="path3087-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.14358878px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 665.36683,263.79101 c 2.75901,-6.88176 21.28363,-53.08778 21.28363,-53.08778 l 0,0"
+       id="path3087-4-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.14358878px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 696.4004,341.5077 665.06533,295.85245"
+       id="path3085-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.14358878px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 481.56669,228.84136 -47.91317,1.77026 4.15828,17.80506 z"
+       id="path3125-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.95721555;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.97860775, 0.97860775;stroke-dashoffset:0"
+       d="m 485.38573,213.52805 -25.88486,-29.52412 5.29796,-5.15436 z"
+       id="path5411-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679" />
     <g
-       id="g5442-8"
-       transform="matrix(0.92487255,-0.38027722,0.38027722,0.92487255,-74.230926,32.655154)"
-       style="fill:none;fill-opacity:1;stroke:#9f0000;stroke-opacity:1">
+       id="g4090"
+       transform="matrix(2.1435888,0,0,2.1435888,-544.87288,-1057.3801)"
+       style="fill:none;stroke:#8604ff;stroke-opacity:1"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679">
+      <g
+         style="fill:none;stroke:#8604ff;stroke-opacity:1"
+         transform="matrix(0.92818393,0.37212174,-0.37212174,0.92818393,437.6866,369.78678)"
+         id="g5442-6">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#8604ff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path5432-6"
+           sodipodi:cx="177.63297"
+           sodipodi:cy="195.78601"
+           sodipodi:rx="7.6492658"
+           sodipodi:ry="4.1079392"
+           d="m 180.65883,192.01314 c 3.87999,0.89747 5.67061,3.31417 3.99948,5.39787 -1.67114,2.0837 -6.17122,3.04533 -10.05121,2.14787 -3.87999,-0.89746 -5.67061,-3.31417 -3.99948,-5.39787 0.53621,-0.66858 1.39361,-1.24864 2.48444,-1.68078"
+           sodipodi:start="5.1190837"
+           sodipodi:end="10.36"
+           sodipodi:open="true"
+           transform="matrix(0.65611372,0.75466204,-0.75466204,0.65611372,219.03683,-51.4262)" />
+      </g>
       <path
-         transform="matrix(0.65611372,0.75466204,-0.75466204,0.65611372,219.03683,-51.4262)"
-         sodipodi:open="true"
-         sodipodi:end="10.36"
-         sodipodi:start="5.1190837"
-         d="m 180.65883,193.17827 a 7.6492658,2.8393319 0 1 1 -7.56677,0.32284"
-         sodipodi:ry="2.8393319"
-         sodipodi:rx="7.6492658"
-         sodipodi:cy="195.78601"
-         sodipodi:cx="177.63297"
-         id="path5432-8"
-         style="fill:none;stroke:#9f0000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;fill-opacity:1"
-         sodipodi:type="arc" />
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5440-49"
+         d="m 537.53157,635.18789 2.86705,4.51246 -2.24265,-0.89694 -2.00679,1.48699 z"
+         style="fill:none;stroke:#8604ff;stroke-opacity:1" />
     </g>
-    <path
-       style="fill:#b20000;fill-opacity:1;stroke:#b30000;stroke-opacity:1"
-       d="m 182.60011,154.1139 4.88479,2.17282 -2.36441,0.49356 -0.84903,2.34893 z"
-       id="path5440-4"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g4085"
+       transform="matrix(-0.59862817,-2.0583045,2.0583045,-0.59862817,-405.00931,1666.5914)"
+       style="stroke:#0004ff;stroke-opacity:1"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679">
+      <g
+         style="fill:none;stroke:#0004ff;stroke-opacity:1"
+         transform="matrix(0.92818393,0.37212174,-0.37212174,0.92818393,407.77343,330.15928)"
+         id="g5442-6-1">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#0004ff;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path5432-6-7"
+           sodipodi:cx="177.63297"
+           sodipodi:cy="195.78601"
+           sodipodi:rx="7.6492658"
+           sodipodi:ry="4.1079392"
+           d="m 180.65883,192.01314 c 3.87999,0.89747 5.67061,3.31417 3.99948,5.39787 -1.67114,2.0837 -6.17122,3.04533 -10.05121,2.14787 -3.87999,-0.89746 -5.67061,-3.31417 -3.99948,-5.39787 0.53621,-0.66858 1.39361,-1.24864 2.48444,-1.68078"
+           sodipodi:start="5.1190837"
+           sodipodi:end="10.36"
+           sodipodi:open="true"
+           transform="matrix(0.65611372,0.75466204,-0.75466204,0.65611372,219.03683,-51.4262)" />
+      </g>
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5440-49-2"
+         d="m 507.6184,595.56039 2.86705,4.51246 -2.24265,-0.89694 -2.00679,1.48699 z"
+         style="fill:#000000;fill-opacity:1;stroke:#0004ff;stroke-opacity:1" />
+    </g>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#9c0000;fill-opacity:1;stroke:#9f0000;stroke-width:1;stroke-opacity:1;font-family:Gentium;-inkscape-font-specification:Gentium Italic"
-       x="148.87337"
-       y="155.14458"
-       id="text3026-5"
+       style="font-size:47.15895462px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium Italic"
+       x="380.50351"
+       y="428.81619"
+       id="text3026-50-7"
        sodipodi:linespacing="125%"
-       transform="matrix(0.99936251,-0.03570106,0.03570106,0.99936251,0,0)"
-       inkscape:transform-center-x="3.1389188"
-       inkscape:transform-center-y="1.7438438"><tspan
+       transform="matrix(0.99990254,-0.01396082,0.01396082,0.99990254,0,0)"
+       inkscape:transform-center-x="3.0298395"
+       inkscape:transform-center-y="2.5816929"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
          sodipodi:role="line"
-         id="tspan3028-6"
-         x="148.87337"
-         y="155.14458"
-         style="font-size:24px;stroke-width:1">φ</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
-       d="m 175.45184,97.412167 0.34877,-87.192195"
-       id="path3891"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.69999999999999996;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.69999999999999996, 0.69999999999999996;stroke-dashoffset:0;marker-end:url(#Arrow1Mend-4)"
-       d="M 196.38081,97.45954 114.07139,96.413235"
-       id="path3891-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.59999999999999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.59999999999999998, 0.59999999999999998;stroke-dashoffset:0;marker-mid:none;marker-end:none;marker-start:url(#Arrow1Mstart)"
-       d="m 140.16515,125.38571 59.2907,-47.432545"
-       id="path3891-8-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#14a100;stroke:#00b400;stroke-opacity:1;marker-end:url(#Arrow1Mend-4);fill-opacity:1"
-       id="path5888"
-       sodipodi:cx="150.4509"
-       sodipodi:cy="99.377609"
-       sodipodi:rx="52.213036"
-       sodipodi:ry="19.338163"
-       d="m 111.10455,86.665396 a 52.213036,19.338163 0 0 1 15.38679,-4.469703"
-       sodipodi:start="3.8589081"
-       sodipodi:end="4.2356538"
-       sodipodi:open="true"
-       transform="translate(47.185113,-25.526373)" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#14a600;stroke:#12cf00;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:none;fill-opacity:1"
-       id="path5888-6"
-       sodipodi:cx="150.4509"
-       sodipodi:cy="99.377609"
-       sodipodi:rx="52.213036"
-       sodipodi:ry="19.338163"
-       d="m 171.381,81.661155 a 52.213036,19.338163 0 0 1 16.55568,4.255044"
-       sodipodi:start="5.124844"
-       sodipodi:end="5.5132261"
-       sodipodi:open="true"
-       transform="translate(47.396432,-25.471807)" />
+         id="tspan3028-4-2"
+         x="380.50351"
+         y="428.81619">ψ<tspan
+   style="font-size:47.15895462px;font-style:normal;fill:#0000ff;fill-opacity:1;-inkscape-font-specification:Gentium"
+   id="tspan4097">=90</tspan><tspan
+   style="font-size:47.15895462px;font-style:normal;baseline-shift:super;fill:#0000ff;fill-opacity:1;-inkscape-font-specification:Gentium"
+   id="tspan4095">o</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:24px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#14a500;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium Italic"
-       x="190.07062"
-       y="61.533646"
-       id="text6670"
-       sodipodi:linespacing="125%"><tspan
+       style="font-size:51.44613266px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#8700ff;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium Italic"
+       x="644.39722"
+       y="429.50085"
+       id="text3026-50-7-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99990254,-0.01396082,0.01396082,0.99990254,0,0)"
+       inkscape:transform-center-x="3.0298395"
+       inkscape:transform-center-y="2.5816929"
+       inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+       inkscape:export-xdpi="300.05679"
+       inkscape:export-ydpi="300.05679"><tspan
          sodipodi:role="line"
-         id="tspan6672"
-         x="190.07062"
-         y="61.533646">θ</tspan></text>
+         id="tspan3028-4-2-6"
+         x="644.39722"
+         y="429.50085">ψ<tspan
+   style="font-style:normal;fill:#8700ff;fill-opacity:1;-inkscape-font-specification:Gentium"
+   id="tspan4097-1">=0</tspan><tspan
+   style="font-size:33.44045639px;font-style:normal;baseline-shift:super;fill:#8700ff;fill-opacity:1;-inkscape-font-specification:Gentium"
+   id="tspan4095-0">o</tspan></tspan></text>
+    <g
+       id="g3080"
+       transform="matrix(2.1435888,0,0,2.1435888,-630.4505,-1158.6934)">
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="matrix(0.99962378,0.02742821,-0.02742821,0.99962378,0,0)"
+         sodipodi:linespacing="125%"
+         id="text2985"
+         y="709.60248"
+         x="316.77042"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           y="709.60248"
+           x="316.77042"
+           id="tspan2987"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="matrix(0.99963035,0.02718771,-0.02718771,0.99963035,0,0)"
+         sodipodi:linespacing="125%"
+         id="text2985-9"
+         y="754.28223"
+         x="339.17609"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           y="754.28223"
+           x="339.17609"
+           id="tspan2987-9"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="matrix(0.99771813,-0.06751693,0.06751693,0.99771813,0,0)"
+         sodipodi:linespacing="125%"
+         id="text2985-1"
+         y="767.9718"
+         x="319.34613"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           y="767.9718"
+           x="319.34613"
+           id="tspan2987-94"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="matrix(0.9993749,-0.03535274,0.03535274,0.9993749,0,0)"
+         sodipodi:linespacing="125%"
+         id="text2985-2"
+         y="716.18823"
+         x="362.28543"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           y="716.18823"
+           x="362.28543"
+           id="tspan2987-0"
+           sodipodi:role="line">O</tspan></text>
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="matrix(0.99999915,-0.0013051,0.0013051,0.99999915,0,0)"
+         sodipodi:linespacing="125%"
+         id="text2985-2-6"
+         y="731.40338"
+         x="251.2234"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           y="731.40338"
+           x="251.2234"
+           id="tspan2987-0-5"
+           sodipodi:role="line">O</tspan></text>
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="matrix(0.92818393,0.37212174,-0.37212174,0.92818393,0,0)"
+         sodipodi:linespacing="125%"
+         id="text2985-2-9"
+         y="537.42145"
+         x="506.57092"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           y="537.42145"
+           x="506.57092"
+           id="tspan2987-0-56"
+           sodipodi:role="line">HO</tspan></text>
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="matrix(0.99735405,0.07269733,-0.07269733,0.99735405,0,0)"
+         sodipodi:linespacing="125%"
+         id="text2985-2-1"
+         y="747.54175"
+         x="451.60849"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold"
+         xml:space="preserve"><tspan
+           y="747.54175"
+           x="451.60849"
+           id="tspan2987-0-1"
+           sodipodi:role="line">OH</tspan></text>
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         inkscape:connector-curvature="0"
+         id="path3083"
+         d="m 306.66373,720.98378 13.09953,27.07784"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3085"
+         d="m 333.24521,755.59608 35.84085,-13.71199"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         inkscape:connector-curvature="0"
+         id="path3087"
+         d="m 379.1435,728.74822 c 1.28709,-3.21039 9.92897,-24.76584 9.92897,-24.76584 l 0,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         inkscape:connector-curvature="0"
+         id="path3087-4"
+         d="m 381.95517,730.03392 c 1.2871,-3.21039 9.92897,-24.76584 9.92897,-24.76584 l 0,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3085-3"
+         d="M 396.43256,766.28933 381.81452,744.99082"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3125"
+         d="m 296.21105,713.72965 -22.35185,0.82584 1.93987,8.30619 z"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path5411"
+         d="m 297.99266,706.58588 -12.07548,-13.77322 2.47154,-2.40455 z"
+         style="fill:none;stroke:#000000;stroke-width:0.91305548;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.45652774, 0.45652774;stroke-dashoffset:0" />
+      <g
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         style="stroke:#0004f2;stroke-opacity:1"
+         transform="matrix(0.92818393,0.37212174,-0.37212174,0.92818393,256.167,483.1143)"
+         id="g5442">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#0004f2;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path5432"
+           sodipodi:cx="177.63297"
+           sodipodi:cy="195.78601"
+           sodipodi:rx="7.6492658"
+           sodipodi:ry="4.1079392"
+           d="m 180.65883,192.01314 c 3.87999,0.89747 5.67061,3.31417 3.99948,5.39787 -1.67114,2.0837 -6.17122,3.04533 -10.05121,2.14787 -3.87999,-0.89746 -5.67061,-3.31417 -3.99948,-5.39787 0.53621,-0.66858 1.39361,-1.24864 2.48444,-1.68078"
+           sodipodi:start="5.1190837"
+           sodipodi:end="10.36"
+           sodipodi:open="true"
+           transform="matrix(0.65611372,0.75466204,-0.75466204,0.65611372,219.03683,-51.4262)" />
+      </g>
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5440"
+         d="m 356.01197,748.51541 2.86705,4.51246 -2.24265,-0.89694 -2.00679,1.48699 z"
+         style="fill:#000000;fill-opacity:1;stroke:#0004ff;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         inkscape:transform-center-y="1.7438438"
+         inkscape:transform-center-x="3.1389188"
+         transform="matrix(0.99764273,0.06862198,-0.06862198,0.99764273,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3026"
+         y="747.67737"
+         x="405.9902"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium Italic"
+         xml:space="preserve"><tspan
+           y="747.67737"
+           x="405.9902"
+           id="tspan3028"
+           sodipodi:role="line">ψ</tspan></text>
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3798"
+         d="M 329.74344,747.59497 403.38528,553.07183"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3798-5"
+         d="m 297.58658,826.83091 24.20943,-58.73602"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0" />
+      <g
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         style="fill:none;stroke:#9f0000;stroke-opacity:1"
+         transform="matrix(0.92487255,-0.38027722,0.38027722,0.92487255,98.392157,566.30362)"
+         id="g5442-8">
+        <path
+           sodipodi:type="arc"
+           style="fill:none;stroke:#9f0000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="path5432-8"
+           sodipodi:cx="177.63297"
+           sodipodi:cy="195.78601"
+           sodipodi:rx="7.6492658"
+           sodipodi:ry="2.8393319"
+           d="m 180.65883,193.17827 c 3.87999,0.62031 5.67061,2.2907 3.99948,3.73091 -1.67114,1.44022 -6.17122,2.10488 -10.05121,1.48457 -3.87999,-0.62031 -5.67061,-2.2907 -3.99948,-3.73091 0.53621,-0.46211 1.39361,-0.86304 2.48444,-1.16173"
+           sodipodi:start="5.1190837"
+           sodipodi:end="10.36"
+           sodipodi:open="true"
+           transform="matrix(0.65611372,0.75466204,-0.75466204,0.65611372,219.03683,-51.4262)" />
+      </g>
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path5440-4"
+         d="m 355.2232,687.76237 4.88479,2.17282 -2.36441,0.49356 -0.84903,2.34893 z"
+         style="fill:#b20000;fill-opacity:1;stroke:#b30000;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         inkscape:transform-center-y="1.7438438"
+         inkscape:transform-center-x="3.1389188"
+         transform="matrix(0.99936251,-0.03570106,0.03570106,0.99936251,0,0)"
+         sodipodi:linespacing="125%"
+         id="text3026-5"
+         y="694.61572"
+         x="302.33459"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#9c0000;fill-opacity:1;stroke:#9f0000;stroke-width:1;stroke-opacity:1;font-family:Gentium;-inkscape-font-specification:Gentium Italic"
+         xml:space="preserve"><tspan
+           style="font-size:24px;stroke-width:1"
+           y="694.61572"
+           x="302.33459"
+           id="tspan3028-6"
+           sodipodi:role="line">φ</tspan></text>
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         inkscape:connector-curvature="0"
+         id="path3891"
+         d="m 348.07493,631.06064 0.34877,-87.1922"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3891-8"
+         d="m 369.0039,631.10801 -82.30942,-1.0463"
+         style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.7, 0.7;stroke-dashoffset:0;marker-end:url(#Arrow1Mend-4)" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path3891-8-8"
+         d="m 312.78824,659.03418 59.2907,-47.43254"
+         style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.6, 0.6;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart);marker-mid:none;marker-end:none" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="translate(219.8082,508.1221)"
+         sodipodi:open="true"
+         sodipodi:end="4.2356538"
+         sodipodi:start="3.7674692"
+         d="m 108.13485,88.04916 c 4.79534,-2.457123 11.08336,-4.462231 18.35649,-5.853467"
+         sodipodi:ry="19.338163"
+         sodipodi:rx="52.213036"
+         sodipodi:cy="99.377609"
+         sodipodi:cx="150.4509"
+         id="path5888"
+         style="fill:#00a200;fill-opacity:1;stroke:#00c100;stroke-opacity:1;marker-end:url(#Arrow1Mend-4)"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="translate(220.01952,508.17666)"
+         sodipodi:open="true"
+         sodipodi:end="5.5132261"
+         sodipodi:start="5.124844"
+         d="m 171.381,81.661155 c 6.21221,1.00673 11.83548,2.45199 16.55568,4.255044"
+         sodipodi:ry="19.338163"
+         sodipodi:rx="52.213036"
+         sodipodi:cy="99.377609"
+         sodipodi:cx="150.4509"
+         id="path5888-6"
+         style="fill:#00a200;fill-opacity:1;stroke:#00a600;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:none"
+         sodipodi:type="arc" />
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         sodipodi:linespacing="125%"
+         id="text6670"
+         y="595.18207"
+         x="362.69373"
+         style="font-size:24px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#14a500;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium Italic"
+         xml:space="preserve"><tspan
+           y="595.18207"
+           x="362.69373"
+           id="tspan6672"
+           sodipodi:role="line">θ</tspan></text>
+      <text
+         inkscape:export-ydpi="300.05679"
+         inkscape:export-xdpi="300.05679"
+         inkscape:export-filename="/home/eric/Documents/diacid-study/images/malonic-angles/malonic-angles.png"
+         transform="matrix(0.35041865,-0.93659317,0.93659317,0.35041865,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4126"
+         y="564.59668"
+         x="-674.12982"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Gentium;-inkscape-font-specification:Gentium"
+         xml:space="preserve"><tspan
+           y="564.59668"
+           x="-674.12982"
+           id="tspan4128"
+           sodipodi:role="line">Bisector<tspan
+   id="tspan4132"
+   style="font-size:14px;baseline-shift:sub">ccc</tspan></tspan></text>
+    </g>
   </g>
 </svg>
